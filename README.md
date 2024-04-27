@@ -1,1 +1,1 @@
-# zxcv
+{{settings.SECRET_KEY}}
